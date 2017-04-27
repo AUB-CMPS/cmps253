@@ -7,5 +7,6 @@ public class Client {
 		ILogger log = LoggerFactory.getDynamicLogger();
 		log.setLevel(LoggingLevel.All); //should be read from the config file
 		log.info("Hello from CMPS253 Logger!");
+		log.info("I added a line.");
 	}
 }
