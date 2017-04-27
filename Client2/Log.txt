@@ -1,0 +1,6 @@
+01:17:48 PM Info: Hello from 253SlackLogger!
+01:17:49 PM Info: Hello from 253SlackLogger!
+01:18:25 PM Info: Hello from 253SlackLogger!
+01:19:00 PM Info: Hello from 253SlackLogger!
+01:19:12 PM Info: Hello from 253SlackLogger!
+01:20:14 PM Info: Hello from CMPS253 Logger!
