@@ -8,6 +8,6 @@ public class Client {
 		log.setLevel(LoggingLevel.All); //should be read from the config file
 		log.info("Hello from CMPS253 Logger!");
 		log.info("I added a line.");
-		log.info("I added another line.");
+		log.info("I added anotherf line.");
 	}
 }
